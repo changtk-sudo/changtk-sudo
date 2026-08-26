@@ -1,12 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm CHANGTK
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A52,40:0B3D91,70:1565C0,100:42A5F5&text=Full%20Stack%20Developer%20&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A52,40:0B3D91,70:1565C0,100:42A5F5&text=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
-
-
-
 
 ---
 
@@ -23,44 +21,52 @@
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart,java,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart,java,c,cpp" />
 </p>
 
-### Frameworks
+### ⚙️ Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,angular,django,nodejs,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=flutter,angular,django,nodejs,bootstrap" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
 </p>
 
-### Tools
+### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" />
 </p>
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/changtk-sudo">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
 
-  <a href="https://youtube.com/@changtk12">
-    <img src="https://skillicons.dev/icons?i=youtube?" width="45" alt="YouTube"/>
-  </a>
+<a href="https://github.com/changtk-sudo">
+<img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+</a>
+
+<a href="https://youtube.com/@changtk12">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" height="45" alt="YouTube"/>
+</a>
+<a href="https://www.facebook.com/changtk12">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" alt="Facebook"/>
+</a>
 </p>
-  
+
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:071A52,40:0B3D91,70:1565C0,100:42A5F5&text=Thank%20%20You!%20&fontSize=25&fontColor=ffffff"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:071A52,40:0B3D91,70:1565C0,100:42A5F5&text=Thank%20You!&fontSize=25&fontColor=ffffff"/>
+
 </div>
