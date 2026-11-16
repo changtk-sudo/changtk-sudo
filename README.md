@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm CHANGTK
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A52,40:0B3D91,70:1565C0,100:42A5F5&text=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A52,40:0B3D91,70:1565C0,100:42A5F5&text=Web%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
